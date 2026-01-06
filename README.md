@@ -4,13 +4,13 @@ Este é um projeto simples de uma calculadora em Python que permite realizar qua
 
 Funcionalidades
 
-Adição
+**Adição**
 
-Subtração
+**Subtração**
 
-Multiplicação
+**Multiplicação**
 
-Divisão (com verificação para divisão por zero)
+**Divisão (com verificação para divisão por zero)**
 
 Como usar
 Pré-requisitos
