@@ -1,4 +1,4 @@
-*Calculadora em Python*
+**Calculadora em Python**
 
 Este é um projeto simples de uma calculadora em Python que permite realizar quatro operações básicas: adição, subtração, multiplicação e divisão. A calculadora solicita dois números ao usuário e realiza a operação desejada com base na escolha do usuário.
 
