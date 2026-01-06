@@ -12,8 +12,7 @@ Este é um projeto simples de uma calculadora em Python que permite realizar qua
 
 **Divisão (com verificação para divisão por zero)**
 
-Como usar
-Pré-requisitos
+Como usar?
 
 Para usar esta calculadora, você precisará ter o Python instalado em sua máquina. Você pode baixar a última versão do Python em https://www.python.org/downloads/
 
